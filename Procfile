@@ -1,1 +1,1 @@
-worker: python selena.py
+worker: python bot.py
